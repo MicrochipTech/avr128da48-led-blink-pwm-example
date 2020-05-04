@@ -1,2 +1,3 @@
-AVR-DA_LED_Blink_PWM/.vs
-AVR-DA_LED_Blink_PWM/AVR-DA_LED_Blink_PWM/Debug
+*/.vs
+*/AVR-DA_LED_blink_PWM/Debug/
+*/AVR-DA_LED_blink_PWM/Release/
